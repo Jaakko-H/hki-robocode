@@ -9,3 +9,4 @@ Install JDK version 8. If you want you can do it from https://adoptopenjdk.net/i
 Install Robocode from here: https://sourceforge.net/projects/robocode/files/robocode/1.9.3.5/
 
 Open editor, create robot and plaa plaa plaa.
+The robocode runtime has built-in editor and compiler, and the package contains example robots.
