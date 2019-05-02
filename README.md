@@ -1,7 +1,5 @@
 # hki-robocode
 
-# hki-dev-guild-robowars
-
 🤖🤖🤖
 
 ## Installation
